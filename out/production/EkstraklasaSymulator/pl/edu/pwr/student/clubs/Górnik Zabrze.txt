@@ -1,0 +1,21 @@
+Sandomierski,Górnik Zabrze,GK,63
+Bielica,Górnik Zabrze,GK,62
+Sokół,Górnik Zabrze,GK,60
+Janza,Górnik Zabrze,DEF,67
+Wiśniewski,Górnik Zabrze,DEF,67
+Janicki,Górnik Zabrze,DEF,65
+Grzyszkiewicz,Górnik Zabrze,DEF,64
+Evangelou,Górnik Zabrze,DEF,62
+Michalski,Górnik Zabrze,DEF,62
+Pawłowski,Górnik Zabrze,DEF,59
+Podolski,Górnik Zabrze,MID,73
+Nowak,Górnik Zabrze,MID,67
+Manneh,Górnik Zabrze,MID,67
+Cholewiak,Górnik Zabrze,MID,65
+Kubica,Górnik Zabrze,MID,62
+Bainovic,Górnik Zabrze,MID,62
+Dziedzic,Górnik Zabrze,MID,58
+Jesus Jimenez,Górnik Zabrze,AT,69
+Sanogo,Górnik Zabrze,AT,63
+Sobczyk,Górnik Zabrze,AT,62
+Krawczyk,Górnik Zabrze,AT,62

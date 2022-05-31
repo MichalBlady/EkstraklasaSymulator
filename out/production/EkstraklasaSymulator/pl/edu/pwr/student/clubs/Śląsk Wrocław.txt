@@ -1,0 +1,23 @@
+Szromnik,Śląsk Wrocław,GK,66
+Putnocky,Śląsk Wrocław,GK,66
+Boruc,Śląsk Wrocław,GK,52
+Stiglec,Śląsk Wrocław,DEF,67
+Tamas,Śląsk Wrocław,DEF,66
+Verdasca,Śląsk Wrocław,DEF,66
+Victor Garcia,Śląsk Wrocław,DEF,66
+Golla,Śląsk Wrocław,DEF,65
+Janasik,Śląsk Wrocław,DEF,65
+Gretarsson,Śląsk Wrocław,DEF,65
+Lewkot,Śląsk Wrocław,DEF,64
+Mączyński,Śląsk Wrocław,MID,67
+Schwarz,Śląsk Wrocław,MID,67
+Pawłowski,Śląsk Wrocław,MID,66
+Jastrzembski,Śląsk Wrocław,MID,65
+Makowski,Śląsk Wrocław,MID,64
+Praszelik,Śląsk Wrocław,MID,64
+Zylla,Śląsk Wrocław,MID,61
+Caye Quintana,Śląsk Wrocław,AT,68
+Pich,Śląsk Wrocław,AT,68
+Erik Exposito,Śląsk Wrocław,AT,67
+Sobota,Śląsk Wrocław,AT,66
+Piasecki,Śląsk Wrocław,AT,64

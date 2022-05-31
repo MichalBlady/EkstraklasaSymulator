@@ -1,0 +1,24 @@
+Boruc,Legia Warszawa,GK,70
+Miszta,Legia Warszawa,GK,59
+Muzyk,Legia Warszawa,GK,58
+Jędrzejczyk,Legia Warszawa,DEF,70
+Johansson,Legia Warszawa,DEF,70
+Wieteska,Legia Warszawa,DEF,67
+Rose,Legia Warszawa,DEF,67
+Abu Hanna,Legia Warszawa,DEF,65
+Hołownia,Legia Warszawa,DEF,64
+Nawrocki,Legia Warszawa,DEF,63
+Mladenovic,Legia Warszawa,MID,72
+Kharatin,Legia Warszawa,MID,71
+Wszołek,Legia Warszawa,MID,71
+Andre Martins,Legia Warszawa,MID,70
+Josue,Legia Warszawa,MID,70
+Slisz,Legia Warszawa,MID,67
+Sokolowski,Legia Warszawa,MID,67
+Skibicki,Legia Warszawa,MID,62
+Pekhart,Legia Warszawa,AT,72
+Luquinhas,Legia Warszawa,AT,71
+Kapustka,Legia Warszawa,AT,70
+Kastrati,Legia Warszawa,AT,68
+Emreli,Legia Warszawa,AT,68
+Rafael Lopes,Legia Warszawa,AT,67

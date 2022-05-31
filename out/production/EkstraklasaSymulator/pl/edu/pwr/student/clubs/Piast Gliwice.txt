@@ -1,0 +1,20 @@
+Plach,Piast Gliwice,GK,71
+Szmatuła,Piast Gliwice,GK,62
+Szymański,Piast Gliwice,GK,59
+Czerwiński,Piast Gliwice,DEF,70
+Konczkowski,Piast Gliwice,DEF,67
+Holubek,Piast Gliwice,DEF,66
+Huk,Piast Gliwice,DEF,66
+Reiner,Piast Gliwice,DEF,65
+Mokwa,Piast Gliwice,DEF,63
+Miguel Munoz,Piast Gliwice,DEF,58
+Kądzior,Piast Gliwice,MID,72
+Sokołowski,Piast Gliwice,MID,67
+Jodłowiec,Piast Gliwice,MID,66
+Chrapek,Piast Gliwice,MID,66
+Vida,Piast Gliwice,MID,65
+Lipski,Piast Gliwice,MID,65
+Tiago Alves,Piast Gliwice,MID,65
+Wilczek,Piast Gliwice,AT,72
+Alberto Toril,Piast Gliwice,AT,63
+Steczyk,Piast Gliwice,AT,63

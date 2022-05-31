@@ -1,0 +1,21 @@
+Stipica,Pogoń Szczecin,GK,71
+Bursztyn,Pogoń Szczecin,GK,62
+Krzysztofek,Pogoń Szczecin,GK,54
+Zech,Pogoń Szczecin,DEF,71
+Bartkowski,Pogoń Szczecin,DEF,67
+Triantafyllopoulos,Pogoń Szczecin,DEF,67
+Stolarski,Pogoń Szczecin,DEF,66
+Matynia,Pogoń Szczecin,DEF,66
+Luis Mata,Pogoń Szczecin,DEF,66
+Malec,Pogoń Szczecin,DEF,65
+Dąbrowski,Pogoń Szczecin,MID,69
+Kucharczyk,Pogoń Szczecin,MID,68
+Kozłowski,Pogoń Szczecin,MID,68
+Gorgon,Pogoń Szczecin,MID,67
+Drygas,Pogoń Szczecin,MID,67
+Kurzawa,Pogoń Szczecin,MID,67
+Jean Carlos,Pogoń Szczecin,MID,67
+Kowalczyk,Pogoń Szczecin,MID,67
+Grosicki,Pogoń Szczecin,AT,71
+Parzyszek,Pogoń Szczecin,AT,67
+Zahovic,Pogoń Szczecin,AT,66

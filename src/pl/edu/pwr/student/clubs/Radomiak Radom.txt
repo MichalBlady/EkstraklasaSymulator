@@ -1,0 +1,20 @@
+Kochalski,Radomiak Radom,GK,60
+Majchrowicz,Radomiak Radom,GK,59
+Szpaderski,Radomiak Radom,GK,54
+Gonzalo Silva,Radomiak Radom,DEF,67
+Raphael Rossi,Radomiak Radom,DEF,67
+Abramowicz,Radomiak Radom,DEF,63
+Cichocki,Radomiak Radom,DEF,63
+Bodzioch,Radomiak Radom,DEF,61
+Jakubik,Radomiak Radom,DEF,61
+Bogusz,Radomiak Radom,DEF,60
+Filipe Nascimento,Radomiak Radom,MID,67
+Luis Nachado,Radomiak Radom,MID,66
+Rhuan,Radomiak Radom,MID,64
+Radecki,Radomiak Radom,MID,63
+Kozak,Radomiak Radom,MID,63
+Leandro,Radomiak Radom,MID,63
+Kaput,Radomiak Radom,MID,62
+Rondon,Radomiak Radom,AT,66
+Maurides,Radomiak Radom,AT,65
+Angielski,Radomiak Radom,AT,64

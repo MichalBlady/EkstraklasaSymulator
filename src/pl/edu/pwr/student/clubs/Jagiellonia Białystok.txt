@@ -1,0 +1,21 @@
+Alomerovic,Jagiellonia Białystok,GK,67
+Steinbors,Jagiellonia Białystok,GK,65
+Dziekoński,Jagiellonia Białystok,GK,63
+Pazdan,Jagiellonia Białystok,DEF,71
+Runje,Jagiellonia Białystok,DEF,68
+Augustyn,Jagiellonia Białystok,DEF,67
+Israel Puerto,Jagiellonia Białystok,DEF,67
+Nastic,Jagiellonia Białystok,DEF,67
+Tiru,Jagiellonia Białystok,DEF,67
+Olszewski,Jagiellonia Białystok,DEF,64
+Romanczuk,Jagiellonia Białystok,MID,69
+Nalepa,Jagiellonia Białystok,MID,69
+Prikryl,Jagiellonia Białystok,MID,67
+Pospisil,Jagiellonia Białystok,MID,67
+Quintana,Jagiellonia Białystok,MID,67
+Kwiecień,Jagiellonia Białystok,MID,64
+Mystkowski,Jagiellonia Białystok,MID,63
+Jesus Imaz,Jagiellonia Białystok,AT,71
+Cernych,Jagiellonia Białystok,AT,66
+Żyro,Jagiellonia Białystok,AT,65
+Trubeha,Jagiellonia Białystok,AT,62

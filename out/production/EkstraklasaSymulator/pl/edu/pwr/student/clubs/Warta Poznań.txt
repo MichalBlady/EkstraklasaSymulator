@@ -1,0 +1,20 @@
+Lis,Warta Poznań,GK,64
+Grobelny,Warta Poznań,GK,55
+Prange,Warta Poznań,GK,52
+Ivanov,Warta Poznań,DEF,67
+Kieliba,Warta Poznań,DEF,66
+Ławniczak,Warta Poznań,DEF,65
+Grzesik,Warta Poznań,DEF,64
+Kiełb,Warta Poznań,DEF,64
+Matuszewski,Warta Poznań,DEF,60
+Pieśnierowicz,Warta Poznań,DEF,57
+Trałka,Warta Poznań,MID,68
+Miguel Luis,Warta Poznań,MID,68
+Topczak,Warta Poznań,MID,65
+Jakóbowski,Warta Poznań,MID,65
+Corryn,Warta Poznań,MID,64
+Szczepanski,Warta Poznań,MID,64
+Kopczyński,Warta Poznań,MID,63
+Zrelak,Warta Poznań,AT,65
+Kuzimski,Warta Poznań,AT,65
+Szelągowski,Warta Poznań,AT,62

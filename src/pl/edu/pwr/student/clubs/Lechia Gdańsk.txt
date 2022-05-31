@@ -1,0 +1,23 @@
+Kuciak,Lechia Gdańsk,GK,69
+Alomerovic,Lechia Gdańsk,GK,67
+Buchalik,Lechia Gdańsk,GK,62
+Nalepa,Lechia Gdańsk,DEF,68
+Kopacz,Lechia Gdańsk,DEF,67
+Pietrzak,Lechia Gdańsk,DEF,66
+Conrado,Lechia Gdańsk,DEF,66
+Maloca,Lechia Gdańsk,DEF,65
+Stec,Lechia Gdańsk,DEF,65
+Tobers,Lechia Gdańsk,DEF,64
+Terrazzino,Lechia Gdańsk,MID,67
+Kubicki,Lechia Gdańsk,MID,67
+Makowski,Lechia Gdańsk,MID,66
+Gajos,Lechia Gdańsk,MID,65
+Ceesay,Lechia Gdańsk,MID,65
+Durmus,Lechia Gdańsk,MID,65
+Haydary,Lechia Gdańsk,MID,64
+Szczepański,Lechia Gdańsk,MID,64
+Biegański,Lechia Gdańsk,MID,64
+Flavio Paixao,Lechia Gdańsk,AT,69
+Zwoliński,Lechia Gdańsk,AT,67
+Zjawiński,Lechia Gdańsk,AT,56
+Sezonienko,Lechia Gdańsk,AT,56

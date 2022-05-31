@@ -1,0 +1,23 @@
+Kovacevic,Raków Częstochowa,GK,68
+Trelowski,Raków Częstochowa,GK,57
+Sorescu,Raków Częstochowa,DEF,70
+Petrasek,Raków Częstochowa,DEF,67
+Niewulis,Raków Częstochowa,DEF,66
+Wydra,Raków Częstochowa,DEF,66
+Arsenic,Raków Częstochowa,DEF,66
+Rundic,Raków Częstochowa,DEF,62
+Racovitian,Raków Częstochowa,DEF,61
+Tudor,Raków Częstochowa,MID,69
+Kun,Raków Częstochowa,MID,68
+Miguel Luis,Raków Częstochowa,MID,68
+Sapała,Raków Częstochowa,MID,67
+Fabio Sturgeon,Raków Częstochowa,MID,67
+Wdowiak,Raków Częstochowa,MID,66
+Poletanovic,Raków Częstochowa,MID,65
+Udovicic,Raków Częstochowa,MID,65
+Papanikolaou,Raków Częstochowa,MID,65
+Ivi Lopez,Raków Częstochowa,AT,71
+Cebula,Raków Częstochowa,AT,68
+Alexandre Guedes,Raków Częstochowa,AT,67
+Gutkovskis,Raków Częstochowa,AT,64
+Musiolik,Raków Częstochowa,AT,64

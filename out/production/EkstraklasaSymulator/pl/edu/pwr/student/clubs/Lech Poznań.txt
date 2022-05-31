@@ -1,0 +1,25 @@
+Van Der Hart,Lech Poznań,GK,67
+Bednarek,Lech Poznań,GK,65
+Mrozek,Lech Poznań,GK,60
+Pedro Rebocho,Lech Poznań,DEF,75
+Douglas,Lech Poznań,DEF,70
+Satka,Lech Poznań,DEF,69
+Salamon,Lech Poznań,DEF,68
+Rogne,Lech Poznań,DEF,67
+Milic,Lech Poznań,DEF,67
+Czerwiński,Lech Poznań,DEF,67
+Joel Pereira,Lech Poznań,DEF,67
+Pedro Tiba,Lech Poznań,MID,71
+Karlstrom,Lech Poznań,MID,69
+Joao Amaral,Lech Poznań,MID,69
+Dani Ramirez,Lech Poznań,MID,68
+Murawski,Lech Poznań,MID,68
+Kamiński,Lech Poznań,MID,67
+Kvekveskiri,Lech Poznań,MID,67
+Skóraś,Lech Poznań,MID,65
+Ba Loua,Lech Poznań,AT,74
+Ishak,Lech Poznań,AT,71
+Kownacki,Lech Poznań,AT,71
+Sobiech,Lech Poznań,AT,70
+Velde,Lech Poznań,AT,66
+Baturina,Lech Poznań,AT,65

@@ -1,0 +1,21 @@
+Kieszek,Wisła Kraków,GK,73
+Buchalik,Wisła Kraków,GK,62
+Rosa,Wisła Kraków,GK,58
+Hanousek,Wisła Kraków,DEF,69
+Frydrych,Wisła Kraków,DEF,68
+Mehremic,Wisła Kraków,DEF,66
+Uryga,Wisła Kraków,DEF,65
+Sadlok,Wisła Kraków,DEF,64
+Ring,Wisła Kraków,DEF,64
+Szota,Wisła Kraków,DEF,62
+Błaszczykowski,Wisła Kraków,MID,70
+Yeboah,Wisła Kraków,MID,68
+Savic,Wisła Kraków,MID,67
+Hugi,Wisła Kraków,MID,67
+El Mahdioui,Wisła Kraków,MID,66
+Zhukov,Wisła Kraków,MID,65
+Skvarka,Wisła Kraków,MID,64
+Brown Forbes,Wisła Kraków,AT,65
+Kliment,Wisła Kraków,AT,65
+Zdybowicz,Wisła Kraków,AT,59
+Sobol,Wisła Kraków,AT,57

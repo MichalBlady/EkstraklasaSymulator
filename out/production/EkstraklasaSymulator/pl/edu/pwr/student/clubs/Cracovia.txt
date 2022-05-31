@@ -1,0 +1,20 @@
+Niemczycki,Cracovia,GK,66
+Hrosso,Cracovia,GK,63
+Wilk,Cracovia,GK,60
+Jugas,Cracovia,DEF,67
+Rapa,Cracovia,DEF,66
+Luis Rocha,Cracovia,DEF,66
+Siplak,Cracovia,DEF,66
+Kakabadze,Cracovia,DEF,65
+Pestka,Cracovia,DEF,65
+Rodin,Cracovia,DEF,63
+Van Amersfoort,Cracovia,MID,67
+Hanca,Cracovia,MID,67
+Rasmussen,Cracovia,MID,66
+Thiago,Cracovia,MID,64
+Sadikovic,Cracovia,MID,64
+Loshaj,Cracovia,MID,63
+Lusiusz,Cracovia,MID,63
+Alvarez,Cracovia,AT,66
+Rivaldinho,Cracovia,AT,64
+Balaj,Cracovia,AT,64
