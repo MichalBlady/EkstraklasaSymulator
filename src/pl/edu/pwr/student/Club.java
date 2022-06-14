@@ -9,6 +9,10 @@ import java.util.Scanner;
 public class Club {
     private String nameOfTheClub;
     private List<Player> players = new ArrayList<Player>();
+    public int points=0;
+    public int scoredGoals=0;
+    public int lostGoals=0;
+    public int balanceOfGoals=0;
 
     public Club(String nameOfTheClub) {
         this.nameOfTheClub = nameOfTheClub;
@@ -19,7 +23,44 @@ public class Club {
         return nameOfTheClub;
     }
 
-private void readPlayers(){
+    public List<Player> getPlayers() {
+        return players;
+    }
+
+    public int getPoints() {
+        return points;
+    }
+
+    public void setPoints(int points) {
+        this.points = points;
+    }
+
+    public int getScoredGoals() {
+        return scoredGoals;
+    }
+
+    public void setScoredGoals(int scoredGoals) {
+        this.scoredGoals = scoredGoals;
+    }
+
+    public int getLostGoals() {
+        return lostGoals;
+    }
+
+    public void setLostGoals(int lostGoals) {
+        this.lostGoals = lostGoals;
+    }
+
+    public int getBalanceOfGoals() {
+        return balanceOfGoals;
+    }
+
+    public void setBalanceOfGoals(int balanceOfGoals) {
+        this.balanceOfGoals = balanceOfGoals;
+    }
+
+    public void readPlayers(){
+
         Scanner in;
         try {
             in=new Scanner(new File("src/pl/edu/pwr/student/clubs/"+nameOfTheClub+".txt"));
@@ -53,4 +94,9 @@ private void readPlayers(){
 }
 
 
+
+
 }
+
+
+

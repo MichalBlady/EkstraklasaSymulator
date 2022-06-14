@@ -20,10 +20,10 @@ public class Squad {
     private List<Player> squad = new ArrayList<Player>();
     private List<Player> players = new ArrayList<Player>();
 
-    private List<Player> goalkeepers = new ArrayList<Player>();
-    private List<Player> defenders = new ArrayList<Player>();
-    private List<Player> midfielders = new ArrayList<Player>();
-    private List<Player> attackers = new ArrayList<Player>();
+    public List<Player> goalkeepers = new ArrayList<Player>();
+    public List<Player> defenders = new ArrayList<Player>();
+    public List<Player> midfielders = new ArrayList<Player>();
+    public List<Player> attackers = new ArrayList<Player>();
 
     private int lengthOfPlayers;
 
@@ -38,21 +38,20 @@ public class Squad {
 
 
 
-    public void dividePlayers() {
+    public void dividePlayers(List<Player>players) {
         goalkeepers = new ArrayList<Player>();
         defenders = new ArrayList<Player>();
         midfielders = new ArrayList<Player>();
         attackers = new ArrayList<Player>();
 
         for (int i = 0; i < lengthOfPlayers; i++) {
-Position position = players.get(i).getPosition();
-            if (position.equals("GK")) {
+            if (players.get(i).getPosition().toString().equals("GK")) {
                 goalkeepers.add(players.get(i));
-            } else if (position.equals("DEF")) {
+            } else if (players.get(i).getPosition().toString().equals("DEF")) {
                 defenders.add(players.get(i));
-            }else if (position.equals("MID")) {
+            }else if (players.get(i).getPosition().toString().equals("MID")) {
                 midfielders.add(players.get(i));
-            }else if (position.equals("AT")) {
+            }else if (players.get(i).getPosition().toString().equals("AT")) {
                 attackers.add(players.get(i));
             }
         }
@@ -94,14 +93,19 @@ Position position = players.get(i).getPosition();
             this.lengthDef = lengthDef;
         }
 
-        public void squadChosing() {
+    public List<Player> getSquad() {
+        return squad;
+    }
+
+    public void squadChosing() {
             squad=new ArrayList<>();
-            dividePlayers();
+            dividePlayers(players);
             Random random = new Random();
 
             int howManyDef = random.nextInt(3, 5);
-            int howManyMid = random.nextInt(3, 8 - howManyDef);
-            int howManyAt = random.nextInt(1, 10 - howManyDef - howManyMid);
+            int howManyAt = random.nextInt(1, 3);
+            int howManyMid = 10 - howManyDef - howManyAt;
+
 
             int nrGk;
             int nrDef;
