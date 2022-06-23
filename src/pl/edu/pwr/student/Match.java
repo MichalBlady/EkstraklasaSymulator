@@ -40,8 +40,8 @@ public class Match {
         this.score1 = score1;
     }
 
-    List<Player> squad1 = new ArrayList<Player>();
-    List<Player> squad2 = new ArrayList<Player>();
+    List<Player> squad1 = new ArrayList<>();
+    List<Player> squad2 = new ArrayList<>();
 
     private int score1=0;
     private int score2=0;
@@ -107,8 +107,8 @@ private int o2=0;
 
 public void overallGetting() {
     for (int i = 0; i < 11; i++) {
-        o1 = o1 + squad1.get(i).getRating();
-        o2 = o2 + squad2.get(i).getRating();
+        o1 += squad1.get(i).getRating();
+        o2 += squad2.get(i).getRating();
     }
 
 }
@@ -152,15 +152,15 @@ public void winnerChosing(){
 }
 
     public void goalScorerChosing(){
-       List<Player>goalkeepers1 = new ArrayList<Player>();
-       List<Player>defenders1 = new ArrayList<Player>();
-       List<Player>midfielders1 = new ArrayList<Player>();
-       List<Player>attackers1 = new ArrayList<Player>();
+       List<Player>goalkeepers1 = new ArrayList<>();
+       List<Player>defenders1 = new ArrayList<>();
+       List<Player>midfielders1 = new ArrayList<>();
+       List<Player>attackers1 = new ArrayList<>();
 
-        List<Player>goalkeepers2 = new ArrayList<Player>();
-        List<Player>defenders2 = new ArrayList<Player>();
-        List<Player>midfielders2 = new ArrayList<Player>();
-        List<Player>attackers2 = new ArrayList<Player>();
+        List<Player>goalkeepers2 = new ArrayList<>();
+        List<Player>defenders2 = new ArrayList<>();
+        List<Player>midfielders2 = new ArrayList<>();
+        List<Player>attackers2 = new ArrayList<>();
 
 
         for (int i = 0; i < 11; i++) {
@@ -189,7 +189,7 @@ public void winnerChosing(){
 
         for(int i=0; i<score1; i++){
             int whichPosition = random.nextInt(100);
-            int nr=0;
+            int nr;
             if(whichPosition<60) {
                 nr=random.nextInt(attackers1.size());
                 attackers1.get(nr).setGoalsOfThePlayer(attackers1.get(nr).getGoalsOfThePlayer() + 1);
@@ -243,7 +243,7 @@ public void winnerChosing(){
 
         for(int i=0; i<score2; i++){
             int whichPosition = random.nextInt(100);
-            int nr=0;
+            int nr;
             if(whichPosition<60) {
                 nr=random.nextInt(attackers2.size());
                 attackers2.get(nr).setGoalsOfThePlayer(attackers2.get(nr).getGoalsOfThePlayer() + 1);
@@ -297,11 +297,11 @@ public void winnerChosing(){
 
     }
 
-    public void match(){
+    List<Player> match(){
         scoreSym();
-        overallGetting();
         winnerChosing();
         goalScorerChosing();
+        return scorers;
     }
 
 

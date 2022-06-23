@@ -1,9 +1,7 @@
 package pl.edu.pwr.student;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Main {
 
@@ -12,8 +10,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Symulator Ekstraklasa 2021/2022");
-        List<Club> tab = new ArrayList<>();
-        List<Player> scorers = new ArrayList<>();
+        List<Player> scorers;
+        List<Player>finalScorers = new ArrayList<>();
         List<String> teams = Team.readTeams();
         for (int i = 0; i < 18; i++) {
             Club club = new Club(teams.get(i));
@@ -46,9 +44,29 @@ public class Main {
 
                     Match match = new Match(squad1, squad2);
 
-                    match.match();
+                    scorers=(match.match());
+                    boolean adding = true;
+                   if(scorers.size()!=0) {
+                       if (finalScorers.size() == 0) {
+                           finalScorers.add(scorers.get(0));
+                           for (int l = 1; l < scorers.size(); l++) {
 
-                    //tab.get(i).points = tab.get(i).points+ club.getPoints(match.winnerChosing());
+                                       finalScorers.add(scorers.get(l));
+
+                           }
+                       } else {
+                           for (int l = 0; l < scorers.size(); l++) {
+                               for (int k = 0; k < finalScorers.size(); k++) {
+                                   if (finalScorers.get(k).equals(scorers.get(l))) {
+                                       adding = false;
+                                   }
+                               }
+                               if(adding == true) {
+                                   finalScorers.add(scorers.get(l));
+                               }
+                           }
+                       }
+                   }
 
 
 
@@ -56,13 +74,36 @@ public class Main {
 
 
                 }
-            }
-        System.out.println(tab.get(1).points);
-        /*
-TO DO:
-1.wypisanie tabel drużyn i strzelców z sortowaniem
-2.gradle
-*/
+
+        }
+List<Club> allClubs =new ArrayList<>();
+        for(int i=0;i<18;i++){
+            allClubs.add(Clubs.get(i));
+        }
+
+
+        List<Player> sortedscorers = finalScorers.stream()
+                .sorted(Comparator.comparing(Player::getGoalsOfThePlayer).reversed())
+                .collect(Collectors.toList());
+
+        List<Club> sortedClubs = allClubs.stream()
+                .sorted(Comparator.comparing(Club::getPoints).reversed())
+                .collect(Collectors.toList());
+
+        System.out.println("Tabela strzelców:");
+        System.out.println("|Lp.|        Zawodnik        | l.goli |");
+        for(int i=0;i< 10;i++) {
+            System.out.format("|%3d|%24s|%8d|\n",i+1,sortedscorers.get(i).getName(),sortedscorers.get(i).getGoalsOfThePlayer());
+        }
+
+
+        System.out.println("Tabela wyników:");
+        System.out.println("|Lp|         Nazwa klubu          | punkty | sg | lg | bg |");
+        for(int i=0;i<18;i++){
+            System.out.format("|%2d|%30s|%8d|%4d|%4d|%4d|\n",i+1,sortedClubs.get(i).getNameOfTheClub(),sortedClubs.get(i).getPoints(),sortedClubs.get(i).getScoredGoals(),sortedClubs.get(i).getLostGoals(),sortedClubs.get(i).getBalanceOfGoals());
+
+
+        }
 
     }
 

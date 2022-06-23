@@ -117,7 +117,7 @@ public class Squad {
                 squad.add(goalkeepers.remove(nrGk));
 
             for (int i = 0; i < howManyDef; i++) {
-                nrDef = random.nextInt(lengthDef);
+                nrDef = random.nextInt(1,lengthDef);
                 squad.add(defenders.remove(nrDef));
                 lengthDef--;
             }
